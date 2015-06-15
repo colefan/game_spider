@@ -1,2 +1,4 @@
 # game_spider
-A spider use to crawl game news,with a sample of youxiduo.com
+A simple spider framework, with a sample of  fetching game news.
+We analyze information with regular expression.
+
